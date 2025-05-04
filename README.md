@@ -30,7 +30,7 @@ Here is a collection of beginner to intermediate-level Python mini projects I’
 - **Skills:** Supervised learning, sklearn, matplotlib, Seaborn.
 
 ### 📈 Sales Prediction Using Python
-[Download PDF Report](files/report.pdf)
+[Sales Prediction Using Python](https://github.com/PrabuMS07/SALES-PREDICTION-USING-PYTHON)
 - **Type:** Regression Model
 - **Description:** Uses historical sales data to forecast future sales using linear regression.
 - **Skills:** Data visualization, pandas, matplotlib, scikit-learn.
